@@ -2,4 +2,4 @@
 
 Vanilla JavaScript project of flappy bird
 
-hosted link :-
+hosted link :- https://62f3683164879b0c9f470b9a--fantastic-unicorn-c6aec4.netlify.app/
